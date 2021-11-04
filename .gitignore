@@ -1,5 +1,12 @@
 ### IntellJ IDEA ###
 .idea
+<<<<<<< Updated upstream
+*.iml
+*.ipr
+*.iws
+=======
 
 .iml
-*.ipr
+
+.iws
+>>>>>>> Stashed changes
